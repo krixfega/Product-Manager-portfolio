@@ -88,7 +88,7 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {socialsData.github && (
+                        {/* {socialsData.github && (
                             <a
                                 href={socialsData.github}
                                 target='_blank'
@@ -100,8 +100,8 @@ function Landing() {
                                     aria-label='GitHub'
                                 />
                             </a>
-                        )}
-                        {/* {socialsData.twitter && (
+                        )} */}
+                        {socialsData.twitter && (
                             <a
                                 href={socialsData.twitter}
                                 target='_blank'
@@ -113,8 +113,8 @@ function Landing() {
                                     aria-label='Twitter'
                                 />
                             </a>
-                        )}
-                        {socialsData.youtube && (
+                        )} 
+                        {/* {socialsData.youtube && (
                             <a
                                 href={socialsData.youtube}
                                 target='_blank'
@@ -126,20 +126,7 @@ function Landing() {
                                     aria-label='YouTube'
                                 />
                             </a>
-                        )}
-                        {socialsData.blogger && (
-                            <a
-                                href={socialsData.blogger}
-                                target='_blank'
-                                rel='noreferrer'
-                            >
-                                <FaBlogger
-                                    className='landing--social'
-                                    style={{ color: theme.secondary }}
-                                    aria-label='Blogger'
-                                />
-                            </a>
-                        )} */}
+                        )}*/}
                     </div>
                 </div>
                 <img
@@ -172,7 +159,7 @@ function Landing() {
                                     rel='noreferrer'
                                 >
                                     <Button className={classes.resumeBtn}>
-                                        Download CV
+                                        View Resume
                                     </Button>
                                 </a>
                             )}
@@ -183,7 +170,7 @@ function Landing() {
                                 duration={2000}
                             >
                                 <Button className={classes.contactBtn}>
-                                    Contact
+                                    Say Hello
                                 </Button>
                             </NavLink>
                         </div>
