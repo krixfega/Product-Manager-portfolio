@@ -13,7 +13,6 @@ import {
     FaLinkedin,
     FaGithub,
     FaYoutube,
-    FaBlogger,
 } from 'react-icons/fa';
 
 function Landing() {
@@ -127,6 +126,7 @@ function Landing() {
                                 />
                             </a>
                         )}*/}
+                        
                     </div>
                 </div>
                 <img
