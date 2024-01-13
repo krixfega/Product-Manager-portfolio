@@ -1,6 +1,8 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "Hello! My name is Esther O. Oladele. I'm an aspiring web developer based in India.",
-    description2: "I am a student at Masai School, currently learning Fullstack Web-Development. A project that I worked on towards the end of my Master’s in History set me on this path of a web developer. The project involved looking at movies on historical themes that could be considered as an educational tool. The website was not the focus of the project, but working on it was such a thrilling experience that a career in this felt like a right fit. Other than this I am a bibliophile, who not just loves reading books but also buying and maintaining a personal library.",
-    image: 2
-}
+    title: "About Me",
+    description1: "Hey there, I'm Esther Oladele, a passionate product enthusiast hailing from the heart of Lagos, Nigeria. With a love for tech and an insatiable curiosity, I've dedicated my career to shaping digital experiences that resonate and make an impact.",
+    description2: "I find joy in the intersection of creativity and problem-solving. Navigating the dynamic landscape of product management, I thrive on transforming abstract ideas into tangible, user-centric solutions. Every project is a canvas, and I paint it with a blend of innovation, strategy, and a touch of my own unique perspective.",
+    description3: "Having journeyed through the dynamic tech industry, I've honed my skills in [mention any specific skills or technologies], collaborating with brilliant minds to bring ideas to life. From conceptualization to launch, I've embraced each challenge as an opportunity to learn and grow.",
+    description4: "While I spend my days immersed in lines of code and product strategies, my interests extend beyond the digital realm. Whether it's exploring the latest tech trends, discussing politics, unraveling the complexities of relationships, delving into business strategies, or contemplating the profound questions of religion, I'm always up for a stimulating conversation.",
+    description5: "This digital space is not just a portfolio; it's an open invitation to connect, collaborate, and explore the boundless possibilities that arise when passionate minds converge. Ready to embark on this journey together? Feel free to reach out – I'm just a message away!",
+};
